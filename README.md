@@ -10,3 +10,5 @@
 <br><br>
 <h2> • 6 kyu</h2>
 <a href='https://www.codewars.com/kata/5e2aec959bce5c001f090c4d'> → Mighty Hero </a>
+<br>
+<a href='https://www.codewars.com/kata/556deca17c58da83c00002db'> → Tribonacci Sequence</a>
