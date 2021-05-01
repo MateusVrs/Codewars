@@ -11,4 +11,8 @@
 <h2> • 6 kyu</h2>
 <a href='https://www.codewars.com/kata/5e2aec959bce5c001f090c4d'> → Mighty Hero </a>
 <br>
-<a href='https://www.codewars.com/kata/556deca17c58da83c00002db'> → Tribonacci Sequence</a>
+<a href='https://www.codewars.com/kata/556deca17c58da83c00002db'> → Tribonacci Sequence</a><br>
+<a href='https://www.codewars.com/kata/515de9ae9dcfc28eb6000001'> → Split Strings </a>
+<br>
+<a href='https://www.codewars.com/kata/51b62bf6a9c58071c600001b'> → Roman Numerals Encoder</a><br>
+<a href='https://www.codewars.com/kata/59971e64bfccc70748000068'> → Sequence convergence</a>
